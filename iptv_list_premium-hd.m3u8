@@ -1,7 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="canal1" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/hbo_red.png" group-title="Peliculas",HBO (1080p)
+#EXTINF:-1 tvg-id="e" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/e.png" group-title="Entretenimiento",E! Enterteiment (1080p) 
+http://45.5.119.43:4000/play/a0gr/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/hbo_red.png" group-title="Peliculas",HBO (1080p)
 http://45.5.119.43:4000/play/a0l2/index.m3u8
 
-#EXTINF:-1 tvg-id="canal2" tvg-name="NAT GEO" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/national-geographic.png" group-title="Cultural",NAT GEO (1080p)
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/national-geographic.png" group-title="Cultural",NAT GEO (1080p)
 http://45.5.119.43:4000/play/a0kk/index.m3u8
+
+#EXTINF:-1 tvg-id="space" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/space.png" group-title="Entretenimiento",Space (1080p)
+http://45.5.119.43:4000/play/a0iz/index.m3u8
+
+#EXTINF:-1 tvg-id="cine-canal" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/cine-canal.png" group-title="Peliculas",Cine Canal (1080p)
+http://45.5.119.43:4000/play/a0hq/index.m3u8
