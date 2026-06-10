@@ -18,6 +18,9 @@ http://45.5.119.43:4000/play/a0kp/index.m3u8
 #EXTINF:-1 tvg-id="history-channel" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/history-channel.png" group-title="Cultural",History Channel (1080p)
 http://45.5.119.43:4000/play/a0gk/index.m3u8
 
+#EXTINF:-1 tvg-id="home-health" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/home-health.png" group-title="Cultural",Home & Health (1080p)
+http://45.5.119.43:4000/play/a0hw/index.m3u8
+
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/national-geographic.png" group-title="Cultural",NAT GEO (1080p)
 http://45.5.119.43:4000/play/a0kk/index.m3u8
 
@@ -64,6 +67,9 @@ http://179.1.87.75:8098/play/a0ts/index.m3u8
 #EXTINF:-1 tvg-id="fox-sports2" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/fox-sports2.png" group-title="Deportes",FOX Sports 2 MX(1080p)
 http://45.5.119.43:4000/play/a0kj/index.m3u8
 
+#EXTINF:-1 tvg-id="golf-channel" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/golf-channel.png" group-title="Deportes",Golf Channel (1080p)
+http://45.5.119.43:4000/play/a0h1/index.m3u8
+
 #EXTINF:-1 tvg-id="sky-sports-laliga" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/sky-sports.png" group-title="Deportes",SKY Sports LaLiga (1080p)
 http://45.5.119.43:4000/play/a05r/index.m3u8
 
@@ -95,6 +101,9 @@ http://45.5.119.43:4000/play/a0gr/index.m3u8
 
 #EXTINF:-1 tvg-id="el-gourmet" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/el-gourmet.png" group-title="Entretenimiento",El Gourmet (1080p) 
 http://179.1.199.50:9000/play/a0as/index.m3u8
+
+#EXTINF:-1 tvg-id="holatv" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/holatv.png" group-title="Entretenimiento",Hola TV(1080p) 
+http://45.5.119.43:4000/play/a0hx/index.m3u8
 
 #EXTINF:-1 tvg-id="latina" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/latina.png" group-title="Entretenimiento",Latina (1080p)
 http://38.44.109.41:8003/play/a0cb/index.m3u8
@@ -146,8 +155,11 @@ http://179.1.199.50:9000/play/a02n/index.m3u8
 http://38.44.109.41:8003/play/a027/index.m3u8
 
 
-#EXTINF:-1 tvg-id="azteca-uno" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/aztecauno.png" group-title="Mexico",Azteca UNO (1080p)
+#EXTINF:-1 tvg-id="azteca-uno" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/aztecauno.png" group-title="Mexico",Azteca UNO (720p)
 http://38.44.109.41:8003/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-id="azteca-siete" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/azteca-7.png" group-title="Mexico",Azteca 7 (720p)
+http://45.5.119.43:4000/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-id="azteca-clic" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/azteca-clic.png" group-title="Mexico",Azteca Clic (1080p)
 http://45.5.119.43:4000/play/a0gz/index.m3u8
