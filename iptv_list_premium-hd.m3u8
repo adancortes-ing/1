@@ -15,6 +15,9 @@ http://45.5.119.43:4000/play/a0hv/index.m3u8
 #EXTINF:-1 tvg-id="discovery-world" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/discovery-world.png" group-title="Cultural",Discovery World (1080p)
 http://45.5.119.43:4000/play/a0kp/index.m3u8
 
+#EXTINF:-1 tvg-id="film-arts" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/film-arts.png" group-title="Cultural",Film & Arts (1080p)
+http://45.5.119.43:4000/play/a0gs/index.m3u8
+
 #EXTINF:-1 tvg-id="history-channel" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/history-channel.png" group-title="Cultural",History Channel (1080p)
 http://45.5.119.43:4000/play/a0gk/index.m3u8
 
@@ -67,11 +70,17 @@ http://45.5.119.43:4000/play/a0kj/index.m3u8
 #EXTINF:-1 tvg-id="espn6-premium" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/espn.png" group-title="Deportes",ESPN PREMIUM (1080p)
 http://179.1.87.75:8098/play/a0ts/index.m3u8
 
+#EXTINF:-1 tvg-id="espn-mundial" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/espn.png" group-title="Deportes",ESPN Mundial (720p)
+http://38.44.109.41:8003/play/a0c7/index.m3u8
+
 #EXTINF:-1 tvg-id="fox-sports2" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/fox-sports2.png" group-title="Deportes",FOX Sports 2 MX(1080p)
 http://45.5.119.43:4000/play/a0kj/index.m3u8
 
 #EXTINF:-1 tvg-id="golf-channel" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/golf-channel.png" group-title="Deportes",Golf Channel (1080p)
 http://45.5.119.43:4000/play/a0h1/index.m3u8
+
+#EXTINF:-1 tvg-id="itv-deportes" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/itv.png" group-title="Deportes",iTV Deportes (720p)
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
 #EXTINF:-1 tvg-id="sky-sports-laliga" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/sky-sports.png" group-title="Deportes",SKY Sports LaLiga (1080p)
 http://45.5.119.43:4000/play/a05r/index.m3u8
@@ -114,6 +123,9 @@ http://38.44.109.41:8003/play/a0cb/index.m3u8
 #EXTINF:-1 tvg-id="neotv" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/neotv.png" group-title="Entretenimiento",NEO TV (720p) >Argentina<
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-id="star-tve" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/star-tve.png" group-title="Entretenimiento",Star TVE (1080p)
+http://45.5.119.43:4000/play/a0h0/index.m3u8
+
 #EXTINF:-1 tvg-id="telemundo" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/telemundo.png" group-title="Entretenimiento",Telemundo INT (1080p)
 http://45.5.119.43:4000/play/a0gv/index.m3u8
 
@@ -139,6 +151,9 @@ http://179.1.87.75:8098/play/a0u8/index.m3u8
 #EXTINF:-1 tvg-id="disneyjr-la" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/disneyjr.png" group-title="Infantil",Disney Jr LA (1080p)
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
+#EXTINF:-1 tvg-id="dreikotv" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/dreikotv.png" group-title="Infantil",DreikoTV (720p)
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+
 #EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/cartoon.png" group-title="Infantil",Cartoon Network (1080p)
 http://45.5.119.43:4000/play/a0l0/index.m3u8
 
@@ -148,6 +163,9 @@ http://45.5.119.43:4000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/cartoonito.png" group-title="Infantil",Cartoonito (720p)
 http://38.44.109.41:8003/play/a0cn/index.m3u8
 
+#EXTINF:-1 tvg-id="chavotv" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/chavotv.png" group-title="Infantil",El Chavo TV (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
 #EXTINF:-1 tvg-id="kids-plus" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/kids.png" group-title="Infantil",Kids+ (720p)
 http://38.44.109.41:8003/play/a025/index.m3u8
 
@@ -156,6 +174,9 @@ http://179.1.199.50:9000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="plim-plim" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/plimtv.png" group-title="Infantil",Plim Plim TV (1080p)
 http://38.44.109.41:8003/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-id="semillitas" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/semillitas.png" group-title="Infantil",Semillitas (480p)
+http://45.5.119.43:4000/play/a0g3/index.m3u8
 
 
 #EXTINF:-1 tvg-id="azteca-uno" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/aztecauno.png" group-title="Mexico",Azteca UNO (720p)
@@ -185,6 +206,12 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1 tvg-id="multimedios-mty" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/multimedios.png" group-title="Mexico",Multimedios MTY (720p)
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
+#EXTINF:-1 tvg-id="b15-fresnillo" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/b15.png" group-title="Mexico",B15 Fresnillo (1080p)
+https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b15-zac" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/b15.png" group-title="Mexico",B15 Zacatecas (1080p)
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="sizart-zac" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/sizart.png" group-title="Mexico",SIZART ZAC (720p)
 https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
@@ -200,6 +227,13 @@ http://179.1.199.50:9000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="telehit" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/telehit.png" group-title="Musica",Telehit (1080p)
 http://38.44.109.41:8003/play/a003/index.m3u8
+
+
+#EXTINF:-1 tvg-id="milenio" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/milenio.png" group-title="Noticias",Milenio Television (720p)
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-id="teleformula" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/teleformula.png" group-title="Noticias",Teleformula (1080p)
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 
 
