@@ -220,7 +220,7 @@ https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 http://179.1.87.75:8098/play/a0uh/index.m3u8
 
 #EXTINF:-1 tvg-id="hits-mexicanos" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/hits-mexicanos.png" group-title="Musica",Hits Mexicanos (1080p)
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/LLFFABQ/m.m3u8
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8?ads.vf=oEyITTX60nq
 
 #EXTINF:-1 tvg-id="la-kalle" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/la-kalle.png" group-title="Musica",La Kalle 96.9 (1080p)
 http://179.1.199.50:9000/play/a04j/index.m3u8
