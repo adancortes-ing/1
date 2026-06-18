@@ -7,19 +7,19 @@ http://45.5.119.43:4000/play/a0gq/index.m3u8
 http://45.5.119.43:4000/play/a0kn/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery-id" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/discovery-id.png" group-title="Cultural",Discovery ID (1080p)
-http://45.5.119.43:4000/play/a0ks/index.m3u8
+http://200.35.176.154:8000/play/a0rx/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery-theater" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/discovery-theater.png" group-title="Cultural",Discovery Theater (1080p)
 http://45.5.119.43:4000/play/a0hv/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery-world" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/discovery-world.png" group-title="Cultural",Discovery World (1080p)
-http://45.5.119.43:4000/play/a0kp/index.m3u8
+http://200.35.176.154:8000/play/a0ru/index.m3u8
 
 #EXTINF:-1 tvg-id="film-arts" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/film-arts.png" group-title="Cultural",Film & Arts (1080p)
 http://45.5.119.43:4000/play/a0gs/index.m3u8
 
 #EXTINF:-1 tvg-id="history-channel" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/history-channel.png" group-title="Cultural",History Channel (1080p)
-http://45.5.119.43:4000/play/a0gk/index.m3u8
+http://200.35.176.154:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="home-health" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/home-health.png" group-title="Cultural",Home & Health (1080p)
 http://45.5.119.43:4000/play/a0hw/index.m3u8
@@ -32,13 +32,13 @@ http://45.5.119.43:4000/play/a0kk/index.m3u8
 http://45.5.119.43:4000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-id="claro-sports2" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/claro-sports.png" group-title="Deportes",Claro sports 2 (1080p)
-http://45.5.119.43:4000/play/a0kz/index.m3u8
+http://200.35.176.154:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="espn-mx" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/espn.png" group-title="Deportes",ESPN MX (1080p)
 http://45.5.119.43:4000/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-id="espn2-mx" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/espn2.png" group-title="Deportes",ESPN 2 MX (1080p)
-http://45.5.119.43:4000/play/a053/index.m3u8
+http://200.35.176.154:8000/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-id="espn3-mx" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/espn3.png" group-title="Deportes",ESPN 3 MX (1080p)
 http://45.5.119.43:4000/play/a054/index.m3u8
@@ -73,8 +73,11 @@ http://179.1.87.75:8098/play/a0ts/index.m3u8
 #EXTINF:-1 tvg-id="espn-mundial" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/espn.png" group-title="Deportes",ESPN Mundial (720p)
 http://38.44.109.41:8003/play/a0c7/index.m3u8
 
+#EXTINF:-1 tvg-id="fox-mundial" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/fox-mundial.png" group-title="Deportes",FOX Mundial(1080p)
+http://200.35.176.154:8000/play/a066/index.m3u8
+
 #EXTINF:-1 tvg-id="fox-sports2" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/fox-sports2.png" group-title="Deportes",FOX Sports 2 MX(1080p)
-http://45.5.119.43:4000/play/a0kj/index.m3u8
+http://200.35.176.154:8000/play/a05x/index.m3u8
 
 #EXTINF:-1 tvg-id="golf-channel" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/golf-channel.png" group-title="Deportes",Golf Channel (1080p)
 http://45.5.119.43:4000/play/a0h1/index.m3u8
@@ -112,13 +115,13 @@ http://179.1.87.75:8098/play/a0ue/index.m3u8
 http://45.5.119.43:4000/play/a05l/index.m3u8
 
 #EXTINF:-1 tvg-id="e" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/e.png" group-title="Entretenimiento",E! Enterteiment (1080p) 
-http://45.5.119.43:4000/play/a0gr/index.m3u8
+http://200.35.176.154:8000/play/a0qu/index.m3u8
 
 #EXTINF:-1 tvg-id="el-gourmet" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/el-gourmet.png" group-title="Entretenimiento",El Gourmet (1080p) 
 http://179.1.199.50:9000/play/a0as/index.m3u8
 
 #EXTINF:-1 tvg-id="holatv" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/holatv.png" group-title="Entretenimiento",Hola TV(1080p) 
-http://45.5.119.43:4000/play/a0hx/index.m3u8
+http://200.35.176.154:8000/play/a0rc/index.m3u8
 
 #EXTINF:-1 tvg-id="latina" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/latina.png" group-title="Entretenimiento",Latina (1080p)
 http://38.44.109.41:8003/play/a0cb/index.m3u8
@@ -130,7 +133,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 http://45.5.119.43:4000/play/a0h0/index.m3u8
 
 #EXTINF:-1 tvg-id="telemundo" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/telemundo.png" group-title="Entretenimiento",Telemundo INT (1080p)
-http://45.5.119.43:4000/play/a0gv/index.m3u8
+http://200.35.176.154:8000/play/a0qy/index.m3u8
 
 #EXTINF:-1 tvg-id="univision" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/univision.png" group-title="Entretenimiento",Univision INT (1080p)
 http://45.5.119.43:4000/play/a0kr/index.m3u8
@@ -160,8 +163,8 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/cartoon.png" group-title="Infantil",Cartoon Network (1080p)
 http://45.5.119.43:4000/play/a0l0/index.m3u8
 
-#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/cartoon.png" group-title="Infantil",Cartoon Network op2 (1080p)
-http://45.5.119.43:4000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/cartoon.png" group-title="Infantil",Cartoon Network op2 (480p)
+http://200.35.176.154:8000/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/cartoonito.png" group-title="Infantil",Cartoonito (720p)
 http://38.44.109.41:8003/play/a0cn/index.m3u8
@@ -179,20 +182,20 @@ http://179.1.199.50:9000/play/a02n/index.m3u8
 http://38.44.109.41:8003/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-id="semillitas" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/semillitas.png" group-title="Infantil",Semillitas (480p)
-http://45.5.119.43:4000/play/a0g3/index.m3u8
+http://200.35.176.154:8000/play/a014/index.m3u8
 
 
 #EXTINF:-1 tvg-id="azteca-uno" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/aztecauno.png" group-title="Mexico",Azteca UNO (720p)
 http://38.44.109.41:8003/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-id="azteca-siete" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/azteca-7.png" group-title="Mexico",Azteca 7 (720p)
-http://45.5.119.43:4000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="azteca-siete" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/azteca-7.png" group-title="Mexico",Azteca 7 (1080p)
+http://200.35.176.154:8000/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-id="azteca-clic" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/azteca-clic.png" group-title="Mexico",Azteca Clic (1080p)
 http://45.5.119.43:4000/play/a0gz/index.m3u8
 
-#EXTINF:-1 tvg-id="canal-5" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/canal-5.png" group-title="Mexico",Canal 5 (HD 720p)
-http://45.5.119.43:4000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="canal-5" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/canal-5.png" group-title="Mexico",Canal 5 (1080p)
+http://200.35.176.154:8000/play/a067/index.m3u8
 
 #EXTINF:-1 tvg-id="las-estrellas" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/las-estrellas.png" group-title="Mexico",Las Estrellas (HD 720p)
 http://45.5.119.43:4000/play/a05j/index.m3u8
@@ -218,6 +221,10 @@ https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
 #EXTINF:-1 tvg-id="sizart-zac" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/sizart.png" group-title="Mexico",SIZART ZAC (720p)
 https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-id="bandamax" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/bandamax.png" group-title="Musica",Bandamax (1080p)
+http://200.35.176.154:8000/play/a051/index.m3u8
 
 #EXTINF:-1 tvg-id="hei" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/hei.png" group-title="Musica",HEI (1080p) >Paraguay<
 http://179.1.87.75:8098/play/a0uh/index.m3u8
@@ -248,7 +255,7 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 http://45.5.119.43:4000/play/a0hq/index.m3u8
 
 #EXTINF:-1 tvg-id="de-pelicula" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/de-pelicula.png" group-title="Peliculas",de Pelicula (1080p)
-http://45.5.119.43:4000/play/a05n/index.m3u8
+http://200.35.176.154:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-id="dhe" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/dhe.png" group-title="Peliculas",DHE (1080p)
 http://179.1.199.50:9000/play/a066/index.m3u8
@@ -269,7 +276,7 @@ http://45.5.119.43:4000/play/a0l2/index.m3u8
 http://45.5.119.43:4000/play/a0l2/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo-family" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/hbo-family.png" group-title="Peliculas",HBO Family (1080p)
-http://45.5.119.43:4000/play/a0l5/index.m3u8
+http://200.35.176.154:8000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo-plus" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/hbo-plus.png" group-title="Peliculas",HBO + (1080p)
 http://45.5.119.43:4000/play/a0l4/index.m3u8
@@ -278,7 +285,7 @@ http://45.5.119.43:4000/play/a0l4/index.m3u8
 http://179.1.87.75:8098/play/a0tk/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo-xtreme" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/hbo-xtreme.png" group-title="Peliculas",HBO Xtreme (1080p)
-http://45.5.119.43:4000/play/a0l6/index.m3u8
+http://200.35.176.154:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="rakuten-action" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/rakuten-tv.png" group-title="Peliculas",Rakuten TV Action (1080p)
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
@@ -296,7 +303,7 @@ https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 
 #EXTINF:-1 tvg-id="sony-movies" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/sony-movies.png" group-title="Peliculas",Sony Movies (1080p)
-http://45.5.119.43:4000/play/a03s/index.m3u8
+http://200.35.176.154:8000/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-id="star-channel" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/star-channel.png" group-title="Peliculas",Star Channel (1080p)
 http://45.5.119.43:4000/play/a0hn/index.m3u8
@@ -314,7 +321,7 @@ http://45.5.119.43:4000/play/a0kt/index.m3u8
 http://45.5.119.43:4000/play/a0i5/index.m3u8
 
 #EXTINF:-1 tvg-id="universal-crime" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/universal-crime.png" group-title="Peliculas",Universal Crime (1080p)
-http://45.5.119.43:4000/play/a0i4/index.m3u8
+http://200.35.176.154:8000/play/a0rj/index.m3u8
 
 #EXTINF:-1 tvg-id="universal-premiere" tvg-logo="https://raw.githubusercontent.com/adancortes-ing/corlogic-iptv/main/img/universal-premiere.png" group-title="Peliculas",Universal Premiere (1080p)
 http://45.5.119.43:4000/play/a0i1/index.m3u8
